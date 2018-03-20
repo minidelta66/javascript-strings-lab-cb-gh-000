@@ -8,4 +8,4 @@ var greetSpecialGuest =
 var topic = "space";
 
 var conversation =
-"Let's talk about " + ${topic};
+"Let's talk about " + topic;
